@@ -1,0 +1,9 @@
+<Ui>
+	<Button name='muteCatWQPinTemplate' inherits='POIButtonTemplate, LegendHighlightableMapPoiPinTemplate' mixin='muteCatWQPinMixin' virtual='true'>
+		<KeyValues>
+			<KeyValue key="questRewardTooltipStyle" value="TOOLTIP_QUEST_REWARDS_STYLE_WORLD_QUEST" type="global"/>
+		</KeyValues>
+	</Button>
+	<Button name='muteCatWQPOITemplate' inherits='AreaPOIPinTemplate' virtual='true'/>
+
+</Ui>

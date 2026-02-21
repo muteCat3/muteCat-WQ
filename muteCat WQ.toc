@@ -1,0 +1,31 @@
+## Interface: 120005, 120001, 120000
+## Title: muteCat WQ
+## Notes: Improved World Quest Pins for Midnight
+## Author: muteCat
+## Version: 12.0.1
+## SavedVariables: muteCatWQDB
+## IconTexture: Interface\Icons\icon_treasuremap
+
+libs\Dashi\embed.xml
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\HereBeDragons\HereBeDragons-2.0.lua
+
+muteCatWQ.xml
+
+locale\deDE.lua
+locale\esES.lua
+locale\esMX.lua
+locale\frFR.lua
+locale\itIT.lua
+locale\koKR.lua
+locale\ptBR.lua
+locale\ruRU.lua
+locale\zhCN.lua
+locale\zhTW.lua
+
+utils.lua
+settings.lua
+provider.lua
+pin.lua
+poi.lua
